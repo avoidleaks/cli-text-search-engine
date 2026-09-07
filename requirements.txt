@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This project only uses standard Python built-in libraries (os, sys, time).
